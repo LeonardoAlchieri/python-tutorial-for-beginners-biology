@@ -1,0 +1,501 @@
+ID,ARM,TimePoint,Risposta,Basophils
+1,High Dose,1,Responder,12018.795949875173
+1,High Dose,2,Responder,30001.500000000004
+1,High Dose,3,Responder,18000.9
+1,High Dose,4,Responder,24001.2
+1,High Dose,5,Responder,44291.93756696385
+2,Low Dose,1,Responder,20010.0
+2,Low Dose,2,Responder,10005.0
+2,Low Dose,3,Responder,15007.5
+2,Low Dose,4,Responder,20010.0
+2,Low Dose,5,Responder,87231.30879334064
+3,High Dose,1,Responder,15000.750000000002
+3,High Dose,2,Responder,12000.6
+3,High Dose,3,Responder,25842.39757608474
+3,High Dose,4,Responder,41339.310380120376
+3,High Dose,5,Responder,75003.75
+4,High Dose,1,Responder,15000.750000000002
+4,High Dose,2,Responder,27237.592805973432
+4,High Dose,3,Responder,24962.452844297466
+4,High Dose,4,Responder,24001.2
+4,High Dose,5,Responder,30001.500000000004
+5,High Dose,1,Responder,15000.750000000002
+5,High Dose,2,Responder,30001.500000000004
+5,High Dose,3,Responder,18000.9
+5,High Dose,4,Responder,60003.00000000001
+5,High Dose,5,Responder,75003.75
+6,Low Dose,1,Non-Responder,5000.0
+6,Low Dose,2,Non-Responder,5000.0
+6,Low Dose,3,Non-Responder,20000.0
+6,Low Dose,4,Non-Responder,20000.0
+6,Low Dose,5,Non-Responder,5000.0
+7,Placebo,1,Responder,30000.0
+7,Placebo,2,Responder,17893.860991361933
+7,Placebo,3,Responder,30000.0
+7,Placebo,4,Responder,26882.89199266082
+7,Placebo,5,Responder,9854.303823308179
+8,Placebo,1,Non-Responder,1000.0
+8,Placebo,2,Non-Responder,1000.0
+8,Placebo,3,Non-Responder,30000.0
+8,Placebo,4,Non-Responder,30000.0
+8,Placebo,5,Non-Responder,30000.0
+9,High Dose,1,Non-Responder,13811.074857133228
+9,High Dose,2,Non-Responder,6000.0
+9,High Dose,3,Non-Responder,15000.0
+9,High Dose,4,Non-Responder,15000.0
+9,High Dose,5,Non-Responder,6000.0
+10,Low Dose,1,Responder,5002.5
+10,Low Dose,2,Responder,39369.781543137426
+10,Low Dose,3,Responder,25662.61004281592
+10,Low Dose,4,Responder,34256.5506279517
+10,Low Dose,5,Responder,100049.99999999999
+11,High Dose,1,Non-Responder,15000.0
+11,High Dose,2,Non-Responder,8075.847274730646
+11,High Dose,3,Non-Responder,15000.0
+11,High Dose,4,Non-Responder,15000.0
+11,High Dose,5,Non-Responder,6000.0
+12,High Dose,1,Non-Responder,7290.167077544924
+12,High Dose,2,Non-Responder,9767.158987750441
+12,High Dose,3,Non-Responder,15000.0
+12,High Dose,4,Non-Responder,12660.840975564828
+12,High Dose,5,Non-Responder,6000.0
+13,Low Dose,1,Responder,20010.0
+13,Low Dose,2,Responder,40020.0
+13,Low Dose,3,Responder,15007.5
+13,Low Dose,4,Responder,20010.0
+13,Low Dose,5,Responder,42025.1812893126
+14,High Dose,1,Responder,6000.3
+14,High Dose,2,Responder,30001.500000000004
+14,High Dose,3,Responder,18000.9
+14,High Dose,4,Responder,24001.2
+14,High Dose,5,Responder,75003.75
+15,Low Dose,1,Non-Responder,20000.0
+15,Low Dose,2,Non-Responder,5000.0
+15,Low Dose,3,Non-Responder,20000.0
+15,Low Dose,4,Non-Responder,20000.0
+15,Low Dose,5,Non-Responder,18471.051355587628
+16,Placebo,1,Non-Responder,1000.0
+16,Placebo,2,Non-Responder,23269.476796881525
+16,Placebo,3,Non-Responder,30000.0
+16,Placebo,4,Non-Responder,1000.0
+16,Placebo,5,Non-Responder,22585.538629876548
+17,Low Dose,1,Responder,20010.0
+17,Low Dose,2,Responder,23608.227851512882
+17,Low Dose,3,Responder,15007.5
+17,Low Dose,4,Responder,63910.87947635151
+17,Low Dose,5,Responder,100049.99999999999
+18,Placebo,1,Non-Responder,1000.0
+18,Placebo,2,Non-Responder,1000.0
+18,Placebo,3,Non-Responder,3336.690986813407
+18,Placebo,4,Non-Responder,1000.0
+18,Placebo,5,Non-Responder,30000.0
+19,Low Dose,1,Non-Responder,5000.0
+19,Low Dose,2,Non-Responder,18003.30956087921
+19,Low Dose,3,Non-Responder,10358.956829444043
+19,Low Dose,4,Non-Responder,8937.74206491157
+19,Low Dose,5,Non-Responder,5000.0
+20,Low Dose,1,Responder,18825.821361736507
+20,Low Dose,2,Responder,10005.0
+20,Low Dose,3,Responder,57882.99836657435
+20,Low Dose,4,Responder,52054.440528765765
+20,Low Dose,5,Responder,100049.99999999999
+21,Low Dose,1,Responder,18797.620450099323
+21,Low Dose,2,Responder,40020.0
+21,Low Dose,3,Responder,15007.5
+21,Low Dose,4,Responder,28990.785390289977
+21,Low Dose,5,Responder,90447.32708657047
+22,Low Dose,1,Responder,5546.26302293366
+22,Low Dose,2,Responder,40020.0
+22,Low Dose,3,Responder,21744.89598405019
+22,Low Dose,4,Responder,20010.0
+22,Low Dose,5,Responder,41864.92407380539
+23,Placebo,1,Responder,30000.0
+23,Placebo,2,Responder,1000.0
+23,Placebo,3,Responder,30000.0
+23,Placebo,4,Responder,20889.10723370527
+23,Placebo,5,Responder,20740.703906521234
+24,Low Dose,1,Non-Responder,20000.0
+24,Low Dose,2,Non-Responder,15214.789551525335
+24,Low Dose,3,Non-Responder,5000.0
+24,Low Dose,4,Non-Responder,20000.0
+24,Low Dose,5,Non-Responder,20000.0
+25,High Dose,1,Non-Responder,6469.859946428666
+25,High Dose,2,Non-Responder,14109.968471126927
+25,High Dose,3,Non-Responder,6000.0
+25,High Dose,4,Non-Responder,7832.17202197347
+25,High Dose,5,Non-Responder,6000.0
+26,Placebo,1,Responder,30000.0
+26,Placebo,2,Responder,12882.337982379206
+26,Placebo,3,Responder,1000.0
+26,Placebo,4,Responder,3666.4596144242455
+26,Placebo,5,Responder,1000.0
+27,Low Dose,1,Non-Responder,5000.0
+27,Low Dose,2,Non-Responder,15946.453460117582
+27,Low Dose,3,Non-Responder,12773.554141419396
+27,Low Dose,4,Non-Responder,20000.0
+27,Low Dose,5,Non-Responder,5000.0
+28,Low Dose,1,Non-Responder,20000.0
+28,Low Dose,2,Non-Responder,5000.0
+28,Low Dose,3,Non-Responder,17493.997046105833
+28,Low Dose,4,Non-Responder,14988.26855142718
+28,Low Dose,5,Non-Responder,5000.0
+29,Low Dose,1,Responder,20010.0
+29,Low Dose,2,Responder,15705.969127804981
+29,Low Dose,3,Responder,15007.5
+29,Low Dose,4,Responder,20280.508874833555
+29,Low Dose,5,Responder,26793.73536233302
+30,High Dose,1,Non-Responder,15000.0
+30,High Dose,2,Non-Responder,6000.0
+30,High Dose,3,Non-Responder,10084.4241801499
+30,High Dose,4,Non-Responder,8267.513162451178
+30,High Dose,5,Non-Responder,14902.327808068934
+31,Placebo,1,Responder,17914.055571251563
+31,Placebo,2,Responder,9788.37469882939
+31,Placebo,3,Responder,4863.083811358521
+31,Placebo,4,Responder,12125.603364450764
+31,Placebo,5,Responder,30000.0
+32,Placebo,1,Responder,30000.0
+32,Placebo,2,Responder,5996.489129110971
+32,Placebo,3,Responder,13512.480286060278
+32,Placebo,4,Responder,30000.0
+32,Placebo,5,Responder,30000.0
+33,Low Dose,1,Responder,20010.0
+33,Low Dose,2,Responder,10005.0
+33,Low Dose,3,Responder,15007.5
+33,Low Dose,4,Responder,66408.86640207848
+33,Low Dose,5,Responder,86610.58669300744
+34,Low Dose,1,Responder,20010.0
+34,Low Dose,2,Responder,40020.0
+34,Low Dose,3,Responder,60030.0
+34,Low Dose,4,Responder,80040.0
+34,Low Dose,5,Responder,25012.499999999996
+35,Low Dose,1,Responder,20010.0
+35,Low Dose,2,Responder,10005.0
+35,Low Dose,3,Responder,22345.54912668887
+35,Low Dose,4,Responder,80040.0
+35,Low Dose,5,Responder,58063.140258305444
+36,High Dose,1,Non-Responder,6000.0
+36,High Dose,2,Non-Responder,10345.959717435942
+36,High Dose,3,Non-Responder,6000.0
+36,High Dose,4,Non-Responder,15000.0
+36,High Dose,5,Non-Responder,8806.079905131506
+37,High Dose,1,Non-Responder,15000.0
+37,High Dose,2,Non-Responder,15000.0
+37,High Dose,3,Non-Responder,8288.54940695226
+37,High Dose,4,Non-Responder,15000.0
+37,High Dose,5,Non-Responder,11548.346431189404
+38,Placebo,1,Non-Responder,30000.0
+38,Placebo,2,Non-Responder,30000.0
+38,Placebo,3,Non-Responder,28799.958430243863
+38,Placebo,4,Non-Responder,18840.831622186677
+38,Placebo,5,Non-Responder,1000.0
+39,Placebo,1,Non-Responder,21490.928007608552
+39,Placebo,2,Non-Responder,30000.0
+39,Placebo,3,Non-Responder,15579.33694624993
+39,Placebo,4,Non-Responder,23641.608268383403
+39,Placebo,5,Non-Responder,18340.838956841868
+40,High Dose,1,Responder,6000.3
+40,High Dose,2,Responder,30001.500000000004
+40,High Dose,3,Responder,18000.9
+40,High Dose,4,Responder,60003.00000000001
+40,High Dose,5,Responder,75003.75
+41,Low Dose,1,Responder,20010.0
+41,Low Dose,2,Responder,10005.0
+41,Low Dose,3,Responder,15007.5
+41,Low Dose,4,Responder,20010.0
+41,Low Dose,5,Responder,100049.99999999999
+42,Low Dose,1,Responder,13972.296964002726
+42,Low Dose,2,Responder,10005.0
+42,Low Dose,3,Responder,60030.0
+42,Low Dose,4,Responder,20010.0
+42,Low Dose,5,Responder,100049.99999999999
+43,Placebo,1,Responder,1000.0
+43,Placebo,2,Responder,30000.0
+43,Placebo,3,Responder,21368.364526133777
+43,Placebo,4,Responder,1000.0
+43,Placebo,5,Responder,20078.540780214866
+44,Placebo,1,Responder,1000.0
+44,Placebo,2,Responder,30000.0
+44,Placebo,3,Responder,1000.0
+44,Placebo,4,Responder,1000.0
+44,Placebo,5,Responder,1000.0
+45,High Dose,1,Non-Responder,11597.116588738314
+45,High Dose,2,Non-Responder,6000.0
+45,High Dose,3,Non-Responder,13621.589250949603
+45,High Dose,4,Non-Responder,15000.0
+45,High Dose,5,Non-Responder,15000.0
+46,Low Dose,1,Non-Responder,20000.0
+46,Low Dose,2,Non-Responder,7673.474302543553
+46,Low Dose,3,Non-Responder,5000.0
+46,Low Dose,4,Non-Responder,12416.78995760525
+46,Low Dose,5,Non-Responder,20000.0
+47,High Dose,1,Non-Responder,15000.0
+47,High Dose,2,Non-Responder,6000.0
+47,High Dose,3,Non-Responder,6000.0
+47,High Dose,4,Non-Responder,10888.958185600717
+47,High Dose,5,Non-Responder,15000.0
+48,Low Dose,1,Responder,5088.613582401802
+48,Low Dose,2,Responder,10005.0
+48,Low Dose,3,Responder,39491.26077516823
+48,Low Dose,4,Responder,80040.0
+48,Low Dose,5,Responder,25012.499999999996
+49,Low Dose,1,Non-Responder,10340.8028405601
+49,Low Dose,2,Non-Responder,5000.0
+49,Low Dose,3,Non-Responder,5000.0
+49,Low Dose,4,Non-Responder,5000.0
+49,Low Dose,5,Non-Responder,20000.0
+50,High Dose,1,Non-Responder,15000.0
+50,High Dose,2,Non-Responder,6000.0
+50,High Dose,3,Non-Responder,6000.0
+50,High Dose,4,Non-Responder,15000.0
+50,High Dose,5,Non-Responder,15000.0
+51,Low Dose,1,Non-Responder,5000.0
+51,Low Dose,2,Non-Responder,13877.10535359974
+51,Low Dose,3,Non-Responder,20000.0
+51,Low Dose,4,Non-Responder,5000.0
+51,Low Dose,5,Non-Responder,19876.814191610327
+52,Low Dose,1,Non-Responder,5000.0
+52,Low Dose,2,Non-Responder,14367.968618445782
+52,Low Dose,3,Non-Responder,13018.965166215652
+52,Low Dose,4,Non-Responder,20000.0
+52,Low Dose,5,Non-Responder,5000.0
+53,Placebo,1,Non-Responder,30000.0
+53,Placebo,2,Non-Responder,30000.0
+53,Placebo,3,Non-Responder,20905.72903597713
+53,Placebo,4,Non-Responder,15296.253534690682
+53,Placebo,5,Non-Responder,4470.972737072168
+54,High Dose,1,Non-Responder,6000.0
+54,High Dose,2,Non-Responder,6802.839107733755
+54,High Dose,3,Non-Responder,9439.610731311064
+54,High Dose,4,Non-Responder,15000.0
+54,High Dose,5,Non-Responder,15000.0
+55,High Dose,1,Responder,12205.258966004767
+55,High Dose,2,Responder,30001.500000000004
+55,High Dose,3,Responder,45002.25000000001
+55,High Dose,4,Responder,60003.00000000001
+55,High Dose,5,Responder,36520.57081832665
+56,Placebo,1,Non-Responder,25596.53507374383
+56,Placebo,2,Non-Responder,14758.048186936274
+56,Placebo,3,Non-Responder,21600.999366573633
+56,Placebo,4,Non-Responder,4056.2343121844215
+56,Placebo,5,Non-Responder,30000.0
+57,Low Dose,1,Non-Responder,5000.0
+57,Low Dose,2,Non-Responder,9833.779943572305
+57,Low Dose,3,Non-Responder,20000.0
+57,Low Dose,4,Non-Responder,20000.0
+57,Low Dose,5,Non-Responder,5000.0
+58,High Dose,1,Non-Responder,15000.0
+58,High Dose,2,Non-Responder,15000.0
+58,High Dose,3,Non-Responder,6000.0
+58,High Dose,4,Non-Responder,6000.0
+58,High Dose,5,Non-Responder,11355.384742355995
+59,Low Dose,1,Responder,12021.15221959828
+59,Low Dose,2,Responder,10005.0
+59,Low Dose,3,Responder,36611.4215333094
+59,Low Dose,4,Responder,76447.21216357978
+59,Low Dose,5,Responder,70119.29576042148
+60,High Dose,1,Responder,10621.063547262946
+60,High Dose,2,Responder,30001.500000000004
+60,High Dose,3,Responder,45002.25000000001
+60,High Dose,4,Responder,39537.519179791394
+60,High Dose,5,Responder,30001.500000000004
+61,High Dose,1,Non-Responder,15000.0
+61,High Dose,2,Non-Responder,15000.0
+61,High Dose,3,Non-Responder,15000.0
+61,High Dose,4,Non-Responder,15000.0
+61,High Dose,5,Non-Responder,8056.016560172153
+62,Low Dose,1,Non-Responder,9112.823764210449
+62,Low Dose,2,Non-Responder,5000.0
+62,Low Dose,3,Non-Responder,5000.0
+62,Low Dose,4,Non-Responder,10535.555273159658
+62,Low Dose,5,Non-Responder,20000.0
+63,Placebo,1,Responder,30000.0
+63,Placebo,2,Responder,30000.0
+63,Placebo,3,Responder,1000.0
+63,Placebo,4,Responder,1000.0
+63,Placebo,5,Responder,14409.876098444325
+64,High Dose,1,Responder,6000.3
+64,High Dose,2,Responder,12000.6
+64,High Dose,3,Responder,45002.25000000001
+64,High Dose,4,Responder,24001.2
+64,High Dose,5,Responder,75003.75
+65,Low Dose,1,Non-Responder,20000.0
+65,Low Dose,2,Non-Responder,7714.3246376585785
+65,Low Dose,3,Non-Responder,20000.0
+65,Low Dose,4,Non-Responder,16951.365794823727
+65,Low Dose,5,Non-Responder,20000.0
+66,High Dose,1,Non-Responder,9447.558505337869
+66,High Dose,2,Non-Responder,6000.0
+66,High Dose,3,Non-Responder,13312.048401277772
+66,High Dose,4,Non-Responder,15000.0
+66,High Dose,5,Non-Responder,14855.700352451902
+67,High Dose,1,Responder,6000.3
+67,High Dose,2,Responder,12000.6
+67,High Dose,3,Responder,45002.25000000001
+67,High Dose,4,Responder,60003.00000000001
+67,High Dose,5,Responder,75003.75
+68,High Dose,1,Non-Responder,6529.89006238635
+68,High Dose,2,Non-Responder,15000.0
+68,High Dose,3,Non-Responder,15000.0
+68,High Dose,4,Non-Responder,15000.0
+68,High Dose,5,Non-Responder,15000.0
+69,High Dose,1,Non-Responder,9144.057403325234
+69,High Dose,2,Non-Responder,8373.293598538516
+69,High Dose,3,Non-Responder,6000.0
+69,High Dose,4,Non-Responder,6000.0
+69,High Dose,5,Non-Responder,6394.501292425032
+70,Placebo,1,Non-Responder,6438.954107085037
+70,Placebo,2,Non-Responder,30000.0
+70,Placebo,3,Non-Responder,1000.0
+70,Placebo,4,Non-Responder,27324.594465782135
+70,Placebo,5,Non-Responder,4742.355064223903
+71,High Dose,1,Non-Responder,15000.0
+71,High Dose,2,Non-Responder,6000.0
+71,High Dose,3,Non-Responder,15000.0
+71,High Dose,4,Non-Responder,15000.0
+71,High Dose,5,Non-Responder,11605.01304403785
+72,Low Dose,1,Non-Responder,5000.0
+72,Low Dose,2,Non-Responder,7843.138513578667
+72,Low Dose,3,Non-Responder,5000.0
+72,Low Dose,4,Non-Responder,20000.0
+72,Low Dose,5,Non-Responder,5000.0
+73,Low Dose,1,Responder,20010.0
+73,Low Dose,2,Responder,10005.0
+73,Low Dose,3,Responder,60030.0
+73,Low Dose,4,Responder,76168.62099520313
+73,Low Dose,5,Responder,57687.34990148646
+74,Placebo,1,Non-Responder,13173.098000413724
+74,Placebo,2,Non-Responder,7325.0290883463085
+74,Placebo,3,Non-Responder,1000.0
+74,Placebo,4,Non-Responder,30000.0
+74,Placebo,5,Non-Responder,7635.370982037125
+75,Placebo,1,Non-Responder,3053.5856390284825
+75,Placebo,2,Non-Responder,25629.35291858756
+75,Placebo,3,Non-Responder,4997.321647376241
+75,Placebo,4,Non-Responder,30000.0
+75,Placebo,5,Non-Responder,1000.0
+76,High Dose,1,Responder,9204.878945818427
+76,High Dose,2,Responder,30001.500000000004
+76,High Dose,3,Responder,45002.25000000001
+76,High Dose,4,Responder,40417.26431992913
+76,High Dose,5,Responder,75003.75
+77,Placebo,1,Responder,7792.559067027881
+77,Placebo,2,Responder,20431.209724946555
+77,Placebo,3,Responder,4731.202583740337
+77,Placebo,4,Responder,1000.0
+77,Placebo,5,Responder,30000.0
+78,High Dose,1,Responder,13836.153467502058
+78,High Dose,2,Responder,30001.500000000004
+78,High Dose,3,Responder,37742.24158099043
+78,High Dose,4,Responder,60003.00000000001
+78,High Dose,5,Responder,66092.11996543939
+79,Low Dose,1,Non-Responder,18235.30364610457
+79,Low Dose,2,Non-Responder,5000.0
+79,Low Dose,3,Non-Responder,5000.0
+79,Low Dose,4,Non-Responder,16547.331716016284
+79,Low Dose,5,Non-Responder,16868.193579931027
+80,Placebo,1,Responder,18021.736550510635
+80,Placebo,2,Responder,1000.0
+80,Placebo,3,Responder,30000.0
+80,Placebo,4,Responder,30000.0
+80,Placebo,5,Responder,30000.0
+81,Low Dose,1,Non-Responder,20000.0
+81,Low Dose,2,Non-Responder,20000.0
+81,Low Dose,3,Non-Responder,12575.145291595803
+81,Low Dose,4,Non-Responder,5000.0
+81,Low Dose,5,Non-Responder,14354.132609237706
+82,High Dose,1,Non-Responder,6000.0
+82,High Dose,2,Non-Responder,12562.033356543157
+82,High Dose,3,Non-Responder,6000.0
+82,High Dose,4,Non-Responder,10558.743949466181
+82,High Dose,5,Non-Responder,15000.0
+83,Placebo,1,Non-Responder,1000.0
+83,Placebo,2,Non-Responder,27976.921007249537
+83,Placebo,3,Non-Responder,1000.0
+83,Placebo,4,Non-Responder,30000.0
+83,Placebo,5,Non-Responder,30000.0
+84,Placebo,1,Responder,20035.247440058898
+84,Placebo,2,Responder,8784.225192397433
+84,Placebo,3,Responder,1773.6863413916662
+84,Placebo,4,Responder,30000.0
+84,Placebo,5,Responder,3417.4705843922607
+85,Placebo,1,Non-Responder,1113.776154866067
+85,Placebo,2,Non-Responder,1000.0
+85,Placebo,3,Non-Responder,19192.377796264198
+85,Placebo,4,Non-Responder,4396.841432020346
+85,Placebo,5,Non-Responder,5300.749274272292
+86,High Dose,1,Responder,6000.3
+86,High Dose,2,Responder,12000.6
+86,High Dose,3,Responder,37465.656200247045
+86,High Dose,4,Responder,60003.00000000001
+86,High Dose,5,Responder,75003.75
+87,Low Dose,1,Non-Responder,20000.0
+87,Low Dose,2,Non-Responder,5000.0
+87,Low Dose,3,Non-Responder,5000.0
+87,Low Dose,4,Non-Responder,5000.0
+87,Low Dose,5,Non-Responder,20000.0
+88,High Dose,1,Responder,6000.3
+88,High Dose,2,Responder,30001.500000000004
+88,High Dose,3,Responder,18000.9
+88,High Dose,4,Responder,60003.00000000001
+88,High Dose,5,Responder,30001.500000000004
+89,Placebo,1,Non-Responder,10826.47768513807
+89,Placebo,2,Non-Responder,22694.075239341473
+89,Placebo,3,Non-Responder,3818.453942376269
+89,Placebo,4,Non-Responder,26105.413205046545
+89,Placebo,5,Non-Responder,30000.0
+90,High Dose,1,Responder,6000.3
+90,High Dose,2,Responder,20331.099383768735
+90,High Dose,3,Responder,18000.9
+90,High Dose,4,Responder,29970.86392310701
+90,High Dose,5,Responder,75003.75
+91,High Dose,1,Responder,9593.816749256144
+91,High Dose,2,Responder,30001.500000000004
+91,High Dose,3,Responder,45002.25000000001
+91,High Dose,4,Responder,25363.936219130403
+91,High Dose,5,Responder,30001.500000000004
+92,High Dose,1,Responder,6000.3
+92,High Dose,2,Responder,12000.6
+92,High Dose,3,Responder,45002.25000000001
+92,High Dose,4,Responder,60003.00000000001
+92,High Dose,5,Responder,75003.75
+93,High Dose,1,Responder,9088.029607985707
+93,High Dose,2,Responder,30001.500000000004
+93,High Dose,3,Responder,37284.74250430627
+93,High Dose,4,Responder,30247.53042592243
+93,High Dose,5,Responder,75003.75
+94,High Dose,1,Responder,6000.3
+94,High Dose,2,Responder,30001.500000000004
+94,High Dose,3,Responder,18000.9
+94,High Dose,4,Responder,60003.00000000001
+94,High Dose,5,Responder,46546.23783317717
+95,Placebo,1,Responder,1000.0
+95,Placebo,2,Responder,28346.6244303735
+95,Placebo,3,Responder,21099.893063543263
+95,Placebo,4,Responder,1000.0
+95,Placebo,5,Responder,30000.0
+96,Placebo,1,Non-Responder,1000.0
+96,Placebo,2,Non-Responder,12433.29945746506
+96,Placebo,3,Non-Responder,30000.0
+96,Placebo,4,Non-Responder,28276.574443446825
+96,Placebo,5,Non-Responder,19990.86395588938
+97,Placebo,1,Non-Responder,30000.0
+97,Placebo,2,Non-Responder,6577.861168835403
+97,Placebo,3,Non-Responder,18039.109487215414
+97,Placebo,4,Non-Responder,26910.853284622957
+97,Placebo,5,Non-Responder,1000.0
+98,High Dose,1,Non-Responder,13566.345646780204
+98,High Dose,2,Non-Responder,8277.423439537677
+98,High Dose,3,Non-Responder,15000.0
+98,High Dose,4,Non-Responder,7200.44967272738
+98,High Dose,5,Non-Responder,7274.463096230977
+99,Low Dose,1,Responder,13042.406208488073
+99,Low Dose,2,Responder,40020.0
+99,Low Dose,3,Responder,15007.5
+99,Low Dose,4,Responder,80040.0
+99,Low Dose,5,Responder,44194.173887761026
+100,Placebo,1,Non-Responder,30000.0
+100,Placebo,2,Non-Responder,25713.42999871304
+100,Placebo,3,Non-Responder,20713.321965537223
+100,Placebo,4,Non-Responder,30000.0
+100,Placebo,5,Non-Responder,1000.0
